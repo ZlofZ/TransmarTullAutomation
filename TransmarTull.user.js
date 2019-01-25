@@ -58,16 +58,16 @@ var inputFields = function() {
     console.log("Fyller i fält");
     if(document.getElementById("q_86f34507-4242-e811-80d6-ee6c6c76c8f5")!=undefined){
         page1();
-        nextbutton.addEventListener("onclick", nclick());
+        //nextbutton.addEventListener("onclick", nclick());
     }else if(document.getElementById("q_79f34507-4242-e811-80d6-ee6c6c76c8f5")!=undefined){
         page2();
-        nextbutton.addEventListener("onclick", nclick());
+        //nextbutton.addEventListener("onclick", nclick());
     }else if(document.getElementById("q_66f34507-4242-e811-80d6-ee6c6c76c8f5")!=undefined){
         putDate();
-        nextbutton.addEventListener("onclick", nclick());
+        //nextbutton.addEventListener("onclick", nclick());
     }else if(document.getElementById("q_64f34507-4242-e811-80d6-ee6c6c76c8f5")!=undefined){
         page4();
-        nextbutton.addEventListener("onclick", nclick());
+        //nextbutton.addEventListener("onclick", nclick());
     }
 
 }
