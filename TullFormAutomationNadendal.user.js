@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         TullFormAutomationNadendal
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Automating the static fields of the form
 // @author       toblar
 // @match        https://link.webropolsurveys.com/Participation/Public/63d02a36-566e-42a5-b948-0ea27a779ca7?displayId=Fin1520863
 // @match        https://link.webropolsurveys.com/Participation/Public/63d02a36-566e-42a5-b948-0ea27a779ca7?displayId=Fin1520863&surveyLocale=sv
+// @updateURL    https://github.com/ZlofZ/TransmarTullAutomation/raw/Ndn/TullFormAutomationNadendal.user.js
 // ==/UserScript==
 
 
